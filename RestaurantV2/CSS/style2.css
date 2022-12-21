@@ -77,7 +77,7 @@ h2 {
   width:100%;
   display: block;
   float:left;
-  background-color: #ed9d56;
+  background-color: lightgreen;
   border: none;
   color: #fff;
   cursor: pointer;
@@ -115,7 +115,7 @@ h2 {
 .campo:focus {
  
   background-color: #fff;
-  color:#ed9d56;
+  color:lightgreen;
 
 }
 
@@ -127,7 +127,7 @@ h2 {
 
 .link {
     
-  color: #ed9d56;
+  color: lightgreen;
   display:inline-block;
   text-decoration: none;
   transition: 0.3s;
