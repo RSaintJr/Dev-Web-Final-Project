@@ -19,7 +19,6 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
         $error = "Usuario ou Senha Invalidos";
     }
 }
-
 ?>
 
 <!DOCTYPE html>
