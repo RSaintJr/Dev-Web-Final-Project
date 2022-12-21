@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image:linear-gradient(to right, lightgreen,lightyellow);
+}
+
+h1,a,li{
+    color: dark;
+}
+
+*{
+    box-sizing: border-box;
+}
